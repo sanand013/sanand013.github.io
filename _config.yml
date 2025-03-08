@@ -1,9 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-description: [Recent Ph.D. graduate in Electrical Engineering and Computer Sciences from UC Berkeley,
-specializing in computational imaging, deep learning, and image processing.
-Extensive experience in developing AI-based image reconstruction,
-motion correction, and signal processing algorithms.
-Strong background in generative models, computer vision, and high-performance computing.]
+description: [Recent Ph.D. graduate in Electrical Engineering and Computer Sciences from UC Berkeley, specializing in computational imaging, deep learning, and image processing. Extensive experience in developing AI-based image reconstruction, motion correction, and signal processing algorithms. Strong background in generative models, computer vision, and high-performance computing.]
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Suma Anand
