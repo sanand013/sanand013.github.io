@@ -1,11 +1,9 @@
-# Suma Anand
-
-![Headshot](headshot_cropped.png)
+<img src="headshot_cropped.png" width="50%" />
 
 **Email**: [sanand@berkeley.edu](mailto:sanand@berkeley.edu)
 
 ## About
-I'm a PhD candidate in the Electrical Engineering and Computer Science department at UC Berkeley, graduating in December 2024. I am advised by [Miki Lustig](http://people.eecs.berkeley.edu/~mlustig/), and I work on computational medical imaging. My thesis research is on motion sensing and correction in Magnetic Resonance Imaging (MRI) using radio frequency (RF) signals and machine learning techniques. I have experience in signal processing, machine learning, optimization, inverse problems for image reconstruction, and generative AI. During my PhD, I've been supported by the NSF Graduate Research Fellowship and the UC Berkeley Chancellor's Fellowship for Graduate Study.
+I'm a recent PhD from the Electrical Engineering and Computer Science department at UC Berkeley, graduating in December 2024. I am advised by [Miki Lustig](http://people.eecs.berkeley.edu/~mlustig/), and I work on computational medical imaging. My thesis research is on motion sensing and correction in Magnetic Resonance Imaging (MRI) using radio frequency (RF) signals and machine learning techniques. I have experience in signal processing, machine learning, optimization, inverse problems for image reconstruction, and generative AI. During my PhD, I've been supported by the NSF Graduate Research Fellowship and the UC Berkeley Chancellor's Fellowship for Graduate Study.
 
 I did my undergraduate studies at MIT, where I received a B.S. in Electrical Engineering (2017), and an M.Eng in Electrical Engineering and Computer Science (2018). I worked with [Larry Wald](https://www.nmr.mgh.harvard.edu/user/5615) at the A.A. Martinos Center for Biomedical Imaging on MRI hardware.
 
@@ -22,7 +20,7 @@ Suma Anand and Michael Lustig, Magnetic Resonance in Medicine 2024.
 ### Conference and Workshop Publications
 
 #### Synthesizing Proton-Density Fat Fraction and \( R_2^* \) from 2-point Dixon MRI with Generative Machine Learning
-Suma Anand, Kaiwen Xu, Colm O'Dushlaine, and Sumit Mukherjee, submitted to ISBI 2025. This work was done as an intern at [insitro](https://www.insitro.com/).  
+Suma Anand, Kaiwen Xu, Colm O'Dushlaine, and Sumit Mukherjee, accepted to ISBI 2025. This work was done as an intern at [insitro](https://www.insitro.com/).  
 [arXiv Paper](https://arxiv.org/abs/2410.11186)
 
 #### Retrospective three-dimensional head motion correction with multi-input multi-output Beat Pilot Tone (MIMO-BPT)
